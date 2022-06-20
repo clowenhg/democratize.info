@@ -1,0 +1,98 @@
+{
+    "count": 3811,
+    "message": null,
+    "nextPage": "https://api.govinfo.gov/collections/BILLS/2022-01-28T20:18:10Z?offset=10&pageSize=10",
+    "previousPage": null,
+    "packages": [
+        {
+            "packageId": "BILLS-117hr8086ih",
+            "lastModified": "2022-06-20T04:23:42Z",
+            "packageLink": "https://api.govinfo.gov/packages/BILLS-117hr8086ih/summary",
+            "docClass": "hr",
+            "title": "Conservation Jobs Act of 2022",
+            "congress": "117",
+            "dateIssued": "2022-06-15"
+        },
+        {
+            "packageId": "BILLS-117hr8071ih",
+            "lastModified": "2022-06-20T04:23:42Z",
+            "packageLink": "https://api.govinfo.gov/packages/BILLS-117hr8071ih/summary",
+            "docClass": "hr",
+            "title": "All-American Flag Act",
+            "congress": "117",
+            "dateIssued": "2022-06-15"
+        },
+        {
+            "packageId": "BILLS-117hr8068ih",
+            "lastModified": "2022-06-20T04:23:41Z",
+            "packageLink": "https://api.govinfo.gov/packages/BILLS-117hr8068ih/summary",
+            "docClass": "hr",
+            "title": "Tribal Energy Investment Act of 2022",
+            "congress": "117",
+            "dateIssued": "2022-06-15"
+        },
+        {
+            "packageId": "BILLS-117hres1189ih",
+            "lastModified": "2022-06-18T06:41:55Z",
+            "packageLink": "https://api.govinfo.gov/packages/BILLS-117hres1189ih/summary",
+            "docClass": "hres",
+            "title": "Supporting the goals and ideals of World Wi-Fi Day.",
+            "congress": "117",
+            "dateIssued": "2022-06-17"
+        },
+        {
+            "packageId": "BILLS-117hr5274rh",
+            "lastModified": "2022-06-18T06:41:55Z",
+            "packageLink": "https://api.govinfo.gov/packages/BILLS-117hr5274rh/summary",
+            "docClass": "hr",
+            "title": "Prevent Exposure to Narcotics and Toxics Act of 2021; PREVENT ACT of 2021",
+            "congress": "117",
+            "dateIssued": "2022-06-17"
+        },
+        {
+            "packageId": "BILLS-117hres1188ih",
+            "lastModified": "2022-06-18T06:41:49Z",
+            "packageLink": "https://api.govinfo.gov/packages/BILLS-117hres1188ih/summary",
+            "docClass": "hres",
+            "title": "Expressing the sense of the House of Representatives that the United States expects the Government of Russia, led by Vladimir Putin, to comply with the Geneva Conventions and their Additional Protocols, also known as the Humanitarian Law of Armed Conflicts.",
+            "congress": "117",
+            "dateIssued": "2022-06-17"
+        },
+        {
+            "packageId": "BILLS-117hr8070ih",
+            "lastModified": "2022-06-18T06:41:48Z",
+            "packageLink": "https://api.govinfo.gov/packages/BILLS-117hr8070ih/summary",
+            "docClass": "hr",
+            "title": "Transparent Leadership Act of 2022",
+            "congress": "117",
+            "dateIssued": "2022-06-15"
+        },
+        {
+            "packageId": "BILLS-117hr7777rh",
+            "lastModified": "2022-06-18T06:41:48Z",
+            "packageLink": "https://api.govinfo.gov/packages/BILLS-117hr7777rh/summary",
+            "docClass": "hr",
+            "title": "Industrial Control Systems Cybersecurity Training Act",
+            "congress": "117",
+            "dateIssued": "2022-06-17"
+        },
+        {
+            "packageId": "BILLS-117hres1187ih",
+            "lastModified": "2022-06-18T06:41:45Z",
+            "packageLink": "https://api.govinfo.gov/packages/BILLS-117hres1187ih/summary",
+            "docClass": "hres",
+            "title": "Recognizing the exemplary service of the soldiers of the 30th Infantry Division of the Army during World War I and World War II.",
+            "congress": "117",
+            "dateIssued": "2022-06-17"
+        },
+        {
+            "packageId": "BILLS-117hr7174rh",
+            "lastModified": "2022-06-18T06:41:42Z",
+            "packageLink": "https://api.govinfo.gov/packages/BILLS-117hr7174rh/summary",
+            "docClass": "hr",
+            "title": "National Computer Forensics Institute Reauthorization Act of 2022",
+            "congress": "117",
+            "dateIssued": "2022-06-17"
+        }
+    ]
+}
